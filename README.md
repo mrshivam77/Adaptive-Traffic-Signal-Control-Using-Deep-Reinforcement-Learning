@@ -315,7 +315,7 @@ The concepts demonstrated in this project can be extended toward:
 
 This project utilizes:
 
-- **SUMO (Simulation of Urban MObility)** for traffic simulation
+- **SUMO (Simulation of Urban Mobility)** for traffic simulation
 - **TensorFlow / Keras** for deep learning
 - **Deep Q-Learning** concepts for adaptive traffic signal control
 
